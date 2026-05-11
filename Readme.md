@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://files.catbox.moe/43u332.jpg" alt="˹Light Music˼" width="400"/>
+  <img src="https://files.catbox.moe/d9k175.jpg" alt="˹Light Music˼" width="400"/>
   
   # 🎵 ˹LIGHT MUSIC˼
 
