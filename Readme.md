@@ -155,7 +155,7 @@ bash start
 
 <div align="center">
   
-  ### Made with ❤️ by Artist 
+  ### Made with ❤️ by Light 
   
   **© 2026 ˹ᴇʟᴇᴠᴇɴʏᴛꜱ ᴍᴜꜱɪᴄ˼. All rights reserved.**
   
